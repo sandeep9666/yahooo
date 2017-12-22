@@ -1,0 +1,1 @@
+this command will list all the commands built in to the command prompt for example help cd will give you more detailed information on a command
