@@ -1,0 +1,2 @@
+this program will provide the native command prompt what we called the command prompt
+this program will open up ados shell for backwords compatibility only use if u must
